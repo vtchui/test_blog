@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Victor's Data Science Blog",
+    "description": "Welcome to our new blog, Victor's Data Science Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Victor Hui",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-06-10",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-06-10T10:43:08+10:00",
+    "input_file": {}
+  }
+]
