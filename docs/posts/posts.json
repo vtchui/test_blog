@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-06-10-i-love-blogging/",
+    "title": "I love blogging",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Victor Hui",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-06-10",
+    "categories": [],
+    "contents": "\r\nSee if this works\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\nplot(iris)\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2023-06-10-i-love-blogging/i-love-blogging_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2023-06-10T11:02:59+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Victor's Data Science Blog",
     "description": "Welcome to our new blog, Victor's Data Science Blog. We hope you enjoy \nreading what we have to say!",
