@@ -4,9 +4,9 @@ description: |
   Welcome to our new blog, Victor's Data Science Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Victor Hui
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+    affiliation: HDAT9800
     affiliation_url: https://example.com/spacelysprokets
 date: 06-10-2023
 output:
