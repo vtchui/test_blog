@@ -4,6 +4,8 @@ description: |
   Some additional details about the blog
   
   blah blah
+  
+  yes yes
 ---
 
 ```{r setup, include=FALSE}
